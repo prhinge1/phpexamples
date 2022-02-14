@@ -1,5 +1,5 @@
 <?php
-  $servername = "http://mysql-app-developer-ocp.apps-crc.testing";
+  $servername = "mysql-app.developer-ocp.srv.cluster.local";
   $username = "user";
   $password = "mypa55";
   $dbname = "items";
